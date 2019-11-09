@@ -1,1 +1,7 @@
+ok
+v<<<<<<< HEAD
 esta linha foi modificada
+=======
+oi
+arquivo novo t2
+z>>>>>>> teste2
